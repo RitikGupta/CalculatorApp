@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!-- Colors for func btn-->
+    <color name="colorFuncButtonBckgnd">#333333</color>
+    <color name="colorFuncButtonTxt">#c4c4c4</color>
+
+    <!-- Colors for number btn-->
+    <color name="colorNumButtonBckgnd">#c4c4c4</color>
+    <color name="colorNumButtonTxt">#333333</color>
+
+    <!-- Colors for equal btn-->
+    <color name="colorEqualButtonBckgnd">#ec7701</color>
+    <color name="colorEqualButtonTxt">#c4c4c4</color>
+</resources>
